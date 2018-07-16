@@ -1,0 +1,13 @@
+# config file for DCM Reporting programs.
+
+dcm:
+  profile_id: #######
+
+postgres:
+  host: server_name
+  port: 5432
+  database: database_name
+  username: user_name
+  password: user_password
+  insert_table: table_name
+  table_schema: schema_name
